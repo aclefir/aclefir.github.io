@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aclefir.github.io/sitemap.html.gz
+Sitemap: https://aclefir.github.io/app/sitemap.html.gz
+Sitemap: https://aclefir.github.io/assets/sitemap.html.gz
+Sitemap: https://aclefir.github.io/css/sitemap.html.gz
+Sitemap: https://aclefir.github.io/data/sitemap.html.gz
+Sitemap: https://aclefir.github.io/includes/sitemap.html.gz
+Sitemap: https://aclefir.github.io/item/sitemap.html.gz
+Sitemap: https://aclefir.github.io/src/sitemap.html.gz
